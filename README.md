@@ -19,7 +19,7 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site: [Ping coming soon page](https://ping-coming-soon-page-sage.vercel.app/)
 
 ## Meu processo
 
